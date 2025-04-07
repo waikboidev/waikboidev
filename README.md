@@ -12,10 +12,4 @@ Hey! I'm Waike, a 14 year old from Australia 🦘. I’m really into technology,
 - 🍎 I try to help others, ask me anything! :)
 <br>
 
-<!-- Profile Trophies -->
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=waikboidev&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-</div>     
 
