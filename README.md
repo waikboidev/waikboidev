@@ -25,8 +25,6 @@
 <p align="center">📚 <strong>Currently Improving:</strong> <code>TypeScript</code> and <code>JavaScript</code></p>
 
 
----
-
 <p align="center">
   
 </p>
